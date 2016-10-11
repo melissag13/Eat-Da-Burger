@@ -1,14 +1,20 @@
 <div class="container">
   <div class="row">
     <div class="col-xs-12 text-center" id="top-bar">
-      <img src="/assets/img/burger.png" alt="burger" />
-      <h1>Space Burger</h1>
+      <img src="/assets/img/burger.png" id=burg alt="burger" />
+      <div class="container">
+        <div class="jumbotron">
+          <div id=font>space burger</div>
+        </div>
+   
+      </div>
+      
     </div>
     <div class="col-xs-6 text-center" class="task">
       <div class="row">
         {{#each burger_data}}
           {{#unless this.devoured}}
-        <div class="col-xs-9 text-center">
+        <div id=display class="col-xs-9 text-center">
           <pre>{{this.id}}. {{this.burger_name}}
           </pre>
               <!-- {{this.Date}} -->
