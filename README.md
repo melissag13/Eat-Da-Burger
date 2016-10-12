@@ -1,6 +1,6 @@
 #Space Burger
 
-![alt tag](https://github.com/melissag13/friend-finder/blob/master/app/public/assets/images/Screen%20Shot%202016-10-03%20at%2010.09.45%20PM.png)
+![alt tag](https://github.com/melissag13/burger/blob/master/public/assets/img/Screen%20Shot%202016-10-11%20at%209.24.46%20PM.png)
 
 ###Overview:
 This full-stack site will take in results your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. You will use Express to handle routing.
