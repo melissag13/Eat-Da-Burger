@@ -27,4 +27,4 @@ This full-stack site will take in results your users' surveys, then compare thei
 
 ###Deployed App:
 
-Heroku: https://shielded-caverns-30623.herokuapp.com
+Heroku: 
